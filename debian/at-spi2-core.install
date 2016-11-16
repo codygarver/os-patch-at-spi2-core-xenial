@@ -1,0 +1,6 @@
+etc
+usr/lib/at-spi2-core
+usr/share/dbus-1
+debian/90qt-a11y etc/X11/Xsession.d
+debian/at-spi2-registryd.conf usr/share/upstart/sessions
+debian/at-spi-dbus-bus.desktop /usr/share/upstart/xdg/autostart
