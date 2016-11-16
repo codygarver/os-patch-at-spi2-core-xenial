@@ -2,3 +2,5 @@ set_by_name_crash
 at-spi-by-default
 no_a11y_warning_ssh
 register_with_session_manager
+99_253ada9_session_management_fixes
+99_995a8_fix_uninitialized_variable
